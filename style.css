@@ -1,0 +1,128 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+textarea{
+  font-size:15px;
+  font-family:"Agency Fb";
+  color:blue;
+  background-color:white;
+}
+#things{
+  color:white;
+  font-family:"Dubai";
+  font-size:15px;
+  background-color:black;
+  cursor:pointer;
+}
+#speak{
+  border: none;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid green;
+  border-radius: 20%;
+}
+#speak:hover{
+  background-color:green;
+  color:white;
+}
+#ccB{
+  border: none;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid black;
+}
+#ccB:hover{
+  background-color:black;
+  color:white;
+}
+#myColor{
+  cursor:cell;
+}
+#colorL{
+  background-color:rgb(160, 154, 154);
+  color:black;
+  border:none;
+}
+#font{
+  background-color:rgb(160, 154, 154);
+  font-family:"Agency fb";
+}
+#Pass{
+  background-color:rgb(160, 154, 154);
+  font-family:"Agency fb";
+  border:none;
+  font-size:20px;
+
+}
+#change{
+  border: none;
+  color: black;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 2px solid green;
+  border-radius: 20%;
+}
+#change:hover{
+  background-color:green;
+  color:white;
+}
+#fullscreen{
+    border: none;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid green;
+    border-radius: 20%;
+  }
+  #fullscreen:hover{
+    background-color:green;
+    color:white;
+  }
+  #smallscreen{
+      border: none;
+      color: black;
+      padding: 5px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      border: 2px solid green;
+      border-radius: 20%;
+    }
+    #smallscreen:hover{
+      background-color:green;
+      color:white;
+    }
